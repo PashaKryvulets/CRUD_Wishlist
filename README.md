@@ -9,3 +9,4 @@ My pet project "Wishlist" operates on a CRUD (Create, Read, Update, Delete) prin
 ![Wishlist Screenshot](img/3.png)
 ![Wishlist Screenshot](img/4.png)
 ![Wishlist Screenshot](img/5.png)
+![Wishlist Screenshot](img/6.png)
