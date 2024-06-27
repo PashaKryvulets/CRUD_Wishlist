@@ -83,7 +83,3 @@ If you'd like to contribute to Wishlist, feel free to open an issue or submit a 
 ## **License**
 
 Wishlist is released under the [MIT License](LICENSE).
-
-
-## **Acknowledgments**
-
