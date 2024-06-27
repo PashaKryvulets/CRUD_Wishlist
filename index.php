@@ -13,7 +13,7 @@ require_once '../learning/config/connect.php';
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>CRUD</title>
-    <h1>Basic CRUD program WISHLIST</h1>
+    <h1>Basic CRUD project Wishlist</h1>
 </head>
 <style>
     body {
