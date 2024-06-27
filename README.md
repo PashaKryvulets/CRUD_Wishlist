@@ -4,6 +4,6 @@ My pet project "Wishlist" operates on a CRUD (Create, Read, Update, Delete) prin
 
 ## **Interface**
 
-![Wishlist Screenshot](1.png)
-![Wishlist Screenshot](2.png)
-![Wishlist Screenshot](3.png)
+![Wishlist Screenshot](img/1.png)
+![Wishlist Screenshot](img/2.png)
+![Wishlist Screenshot](img/3.png)
